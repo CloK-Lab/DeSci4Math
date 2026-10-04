@@ -1,0 +1,9 @@
+*.synctex.gz
+private_resources/
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+/verification_market_ecosystem.pdf
+/verification_market_summary.pdf
